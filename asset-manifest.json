@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-notes/static/css/main.e8c6e8ca.css",
+    "main.js": "/react-notes/static/js/main.29574821.js",
+    "static/media/background.png": "/react-notes/static/media/background.8c89661094078b7a469b.png",
+    "index.html": "/react-notes/index.html",
+    "main.e8c6e8ca.css.map": "/react-notes/static/css/main.e8c6e8ca.css.map",
+    "main.29574821.js.map": "/react-notes/static/js/main.29574821.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c6e8ca.css",
+    "static/js/main.29574821.js"
+  ]
+}
